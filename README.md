@@ -1,2 +1,2 @@
 # nextjs-template
-react framework template (javascript) - NEXTJS
+react framework template (typescript) - NEXTJS
